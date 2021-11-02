@@ -7,7 +7,7 @@ My name is Cat and I am a Software Developer in Miami. I started my own company 
 ### My Skills
 
 ##### Programming Languages, Frameworks, and Databases
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=#F7DF1E&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF&style=for-the-badge)
 
 ##### Tools and Software
 
