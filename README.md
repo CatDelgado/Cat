@@ -1,25 +1,8 @@
-<style>
-    .markdown-body h1 img {
-        vertical-align: bottom;
-        padding-bottom: 1px;
-        height: 35px;
-    }
-    .markdown-body h2 img {
-        vertical-align: bottom;
-        height: 30px;
-    }
-    .markdown-body h4 img {
-        vertical-align: bottom;
-        padding: 0;
-        padding-bottom: 2px;
-    }
-</style>
-
-# ![Hello](/images/icons8-waving.png) Hello there!
+# ![Hello](/images/icons8-waving-35.png) Hello there!
 
 My name is Cat and I am a Software Developer in Miami. I started my own company and plan to continue growing my brand. I also work full time for a fast growing start-up. I am passionate about coding and bringing others' dreams to life. That's why I've put so much time and effort into front-end design and development.
 
-## ![Skills](/images/icons8-applicant-50.png) My Skills
+## ![Skills](/images/icons8-applicant-30.png) My Skills
 
 #### ![languages](/images/icons8-outline-16.png) Programming Languages, Frameworks, and Databases
 
@@ -50,7 +33,7 @@ My name is Cat and I am a Software Developer in Miami. I started my own company 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=Eclipse-IDE&logoColor=FFFFFF&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=FFFFFF&style=for-the-badge)
 
-## ![Social](/images/icons8-people-64.png) My Social Networks
+## ![Social](/images/icons8-social-network-30.png) My Social Networks
 
 Lets connect! :)
 
