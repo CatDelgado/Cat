@@ -39,4 +39,4 @@ Lets connect! :)
 
 [![LinkedIn](/images/social/linkedin.svg)](https://www.linkedin.com/in/catdelgado9/)
 [![Telegram](/images/social/telegram.svg)](https://t.me/cybercat_tech_cat)
-[![Twitch](/images/social/twitch.svg)](https://www.twitch.tv/lifeingamemode)
+<!-- [![Twitch](/images/social/twitch.svg)](https://www.twitch.tv/lifeingamemode) -->
