@@ -1,6 +1,6 @@
 # ![Hello](/images/icons8-waving-35.png) Hello there!
 
-My name is Cat and I am a Software Developer in Miami. I started my own company and plan to continue growing my brand. I also work full time for a fast growing start-up. I am passionate about coding and bringing others' dreams to life. That's why I've put so much time and effort into front-end design and development.
+My name is Cat and I am a Software Developer in Miami. I am working on starting my own company and plan to continue growing my brand while also working full time for a fast growing start-up. I am passionate about coding and bringing others' dreams to life. That's why I've put so much time and effort into front-end design and development.
 
 ## ![Skills](/images/icons8-applicant-30.png) My Skills
 
