@@ -1,4 +1,28 @@
-# ![Hello](/images/icons8-waving-35.png) Hello there!
+# Hello, World! I'm Cat <img src='https://media.giphy.com/media/xKjDetqIeL93aa8HPv/giphy.gif' width='50px'>
+<img align='right' src='https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif' width='300px'>
+<!-- <img align='right' src='https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif' width='230px'> -->
+
+I am a highly skilled mid-level software developer with experience in developing efficient and scalable software solutions, with a keen eye for detail and a track 
+record of delivering high-quality code. While most of my experience has been in web development, I am looking to branch out more into mobile development as well.
+
+## My Skills
+#### Programming Languages, Frameworks, and Databases
+![Languages, Frameworks, and Databases](https://skillicons.dev/icons?i=react,ts,js,sass,nodejs,mongodb,md,jest,graphql,css,html,bootstrap,materialui,styledcomponents)
+
+#### Tools and Software
+![Tools and Software](https://skillicons.dev/icons?i=vscode,regex,git,figma,docker,apollo,androidstudio)
+
+![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CatDelgado}&theme={transparent})
+
+## Let's Connect!
+<img src='https://media.giphy.com/media/PkTlPB1rYz5QVhVkE8/giphy.gif' width='100px' align='left'>
+
+[LinkedIn](https://www.linkedin.com/in/catdelgado9/)
+
+[Email](mailto:catdelgado9@gmail.com)
+
+
+<!-- # ![Hello](/images/icons8-waving-35.png) Hello there!
 
 My name is Cat and I am a Software Developer in Miami. I am working on starting my own company while also working full time for a fast growing start-up. I am passionate about coding and bringing others' dreams to life. That's why I've put so much time and effort into front-end design and development.
 
@@ -39,4 +63,4 @@ Lets connect! :)
 
 [![LinkedIn](/images/social/linkedin.svg)](https://www.linkedin.com/in/catdelgado9/)
 [![Telegram](/images/social/telegram.svg)](https://t.me/cybercat_tech_cat)
-<!-- [![Twitch](/images/social/twitch.svg)](https://www.twitch.tv/lifeingamemode) -->
+[![Twitch](/images/social/twitch.svg)](https://www.twitch.tv/lifeingamemode) -->
