@@ -1,5 +1,5 @@
 # Hello, World! I'm Cat <img src='https://media.giphy.com/media/xKjDetqIeL93aa8HPv/giphy.gif' width='50px'>
-<img align='right' src='https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif' width='300px'>
+<img align='right' src='https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif' width='250px'>
 
 I am a highly skilled mid-level software developer with experience in developing efficient and scalable software solutions, with a keen eye for detail and a track 
 record of delivering high-quality code. While most of my experience has been in web development, I am looking to branch out more into mobile development as well.
@@ -15,7 +15,7 @@ record of delivering high-quality code. While most of my experience has been in 
 ![Top Languages](https://raw.githubusercontent.com/CatDelgado/CatDelgado/main/profile-summary-card-output/panda/1-repos-per-language.svg)
 
 ## Let's Connect!
-<img src='https://media.giphy.com/media/PkTlPB1rYz5QVhVkE8/giphy.gif' width='100px' align='left' marginRight='10px'>
+<img src='https://media.giphy.com/media/PkTlPB1rYz5QVhVkE8/giphy.gif' width='100px' align='left' style='margin:0px 20px 0px 0px'>
 
 [LinkedIn](https://www.linkedin.com/in/catdelgado9/)
 
