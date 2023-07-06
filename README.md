@@ -6,7 +6,7 @@ record of delivering high-quality code. While most of my experience has been in 
 
 ## My Skills
 #### Programming Languages, Frameworks, and Databases
-![Languages, Frameworks, and Databases](https://skillicons.dev/icons?i=react,ts,js,sass,nodejs,mongodb,md,jest,graphql,css,html,bootstrap,materialui,styledcomponents)
+![Languages, Frameworks, and Databases](https://skillicons.dev/icons?i=react,ts,js,sass,nodejs,mongodb,md,jest,graphql,css,html,bootstrap,materialui,styledcomponents&perline=7)
 
 #### Tools and Software
 ![Tools and Software](https://skillicons.dev/icons?i=vscode,regex,git,figma,docker,apollo,androidstudio,postman)
@@ -15,8 +15,7 @@ record of delivering high-quality code. While most of my experience has been in 
 ![Top Languages](https://raw.githubusercontent.com/CatDelgado/CatDelgado/main/profile-summary-card-output/panda/1-repos-per-language.svg)
 
 ## Let's Connect!
-<img src='https://media.giphy.com/media/PkTlPB1rYz5QVhVkE8/giphy.gif' width='100px' align='left' style='margin:0px 20px 0px 0px'>
+<img src='https://media.giphy.com/media/PkTlPB1rYz5QVhVkE8/giphy.gif' width='100px' align='left'>
 
-[LinkedIn](https://www.linkedin.com/in/catdelgado9/)
-
+[LinkedIn](https://www.linkedin.com/in/catdelgado9/) |
 [Email](mailto:catdelgado9@gmail.com)
